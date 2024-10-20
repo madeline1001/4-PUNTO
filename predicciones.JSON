@@ -1,0 +1,78 @@
+[
+    {
+        "filename": "dog.jpg",
+        "detections": [
+            {
+                "class": "dog",
+                "confianza": 0.8575499057769775,
+                "coordenadas": {
+                    "Superior izquierda": [
+                        157.66493225097656,
+                        2.5692214965820312
+                    ],
+                    "Inferior derecha": [
+                        697.8346557617188,
+                        402.7320556640625
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "filename": "dog.jpg",
+        "detections": [
+            {
+                "class": "dog",
+                "confianza": 0.8575499057769775,
+                "coordenadas": {
+                    "Superior izquierda": [
+                        157.66493225097656,
+                        2.5692214965820312
+                    ],
+                    "Inferior derecha": [
+                        697.8346557617188,
+                        402.7320556640625
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "filename": "avion.jpg",
+        "detections": [
+            {
+                "class": "airplane",
+                "confianza": 0.8660027980804443,
+                "coordenadas": {
+                    "Superior izquierda": [
+                        4.1873779296875,
+                        42.98386001586914
+                    ],
+                    "Inferior derecha": [
+                        279.1494445800781,
+                        122.29338073730469
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "filename": "avion.jpg",
+        "detections": [
+            {
+                "class": "airplane",
+                "confianza": 0.8660027980804443,
+                "coordenadas": {
+                    "Superior izquierda": [
+                        4.1873779296875,
+                        42.98386001586914
+                    ],
+                    "Inferior derecha": [
+                        279.1494445800781,
+                        122.29338073730469
+                    ]
+                }
+            }
+        ]
+    }
+]
